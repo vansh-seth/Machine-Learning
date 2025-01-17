@@ -146,4 +146,3 @@ This repository contains practical work to analyze IPL matches data using Python
 
 ## Conclusion
 This project showcases how to analyze and visualize cricket data using Python, pandas, and matplotlib. It provides insights into player performance, match outcomes, and trends across seasons.
-```
