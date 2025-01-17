@@ -111,8 +111,8 @@ This repository contains practical work to analyze IPL matches data using Python
   print(most_fours())
   print(most_sixs())
   ```
-
-- **Strike rate in death overs**:
+### 6. Most Dangerous Batsman
+- **Most dangerous batsman by Strike rate in death over**:
   ```python
   df_filtered = df[df['over'].between(16, 20)]
   batsman_stats = df_filtered.groupby('batsman').agg(
@@ -126,7 +126,7 @@ This repository contains practical work to analyze IPL matches data using Python
 
 ---
 
-### 6. Leading Run Scorers by Season
+### 7. Leading Run Scorers by Season
 - **Find leading run-scorers for each season**:
   ```python
   def get_leading_run_scorers(matches_file, deliveries_file):
