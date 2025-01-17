@@ -1,4 +1,3 @@
-```markdown
 # Practical-1
 
 This repository contains practical work to analyze IPL matches data using Python and pandas, demonstrating skills in data manipulation, visualization, and analysis.
